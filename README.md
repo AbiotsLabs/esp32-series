@@ -7,7 +7,9 @@
 
 # ESP32 Series with ESP-IDF and C++ using platformIO
 
-## This repository comtains all the projects explained in the ESP32 series.
+## This repository contains all the projects explained in the ESP32 series.
+* Getting started with ESP-IDF.
+* Getting started with GPIO.
 
 ### License
 Code in this repository is in the Public Domain (or CC0 licensed, at your option.) Unless required by applicable law or agreed to in writing, this software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
