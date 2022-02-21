@@ -1,0 +1,4 @@
+title: Template application for ESP32
+description: This is a template application for ESP32 to be used with Espressif IoT Development Framework, C++ and PlatformIO.
+show_downloads: true
+theme: jekyll-theme-cayman
